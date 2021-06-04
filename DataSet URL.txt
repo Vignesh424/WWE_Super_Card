@@ -1,1 +1,2 @@
-Dataset URL:https://www.thesmackdownhotel.com/supercard/cards-catalog/
+I took only 3 group of cards data Elemental Royal Rumble and WM 36.
+You can extend it if you like.
